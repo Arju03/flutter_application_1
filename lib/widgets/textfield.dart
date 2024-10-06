@@ -11,7 +11,7 @@ class AppWid extends StatelessWidget {
         //app bar
         appBar: AppBar(
           title: Text(
-            "EduHub",
+            "EduHub gg",
             style: TextStyle(color: Colors.black),
           ),
           centerTitle: true,
